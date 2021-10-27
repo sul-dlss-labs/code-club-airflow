@@ -7,6 +7,11 @@ A practice repository for discussing Apache Airflow at Code Club
 
 [Basic docker compose configuration](https://airflow.apache.org/docs/apache-airflow/stable/start/docker.html)
 
+1. Clone this branch
+1. Run `docker compose up`
+1. In a browser: http://localhost:8080
+1. Login: airflow/airflow
+
 ### Operators
 
 1. [Base operators](https://airflow.apache.org/docs/apache-airflow/stable/operators-and-hooks-ref.html)
