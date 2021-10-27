@@ -56,7 +56,7 @@ with DAG(
     )
 
     t3 = DummyOperator(
-        task_id='finished',
+        task_id='sleep',
         depends_on_past=False,
     )
 
